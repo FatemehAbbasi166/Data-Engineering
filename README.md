@@ -3,7 +3,7 @@ Welcome to  Data Engineering in AWS. We’ll  get an overview of handling and dr
 ## Objective: 
 - Describe Overview and Drop Technique for Handling Missing Data.
 
-- Analyze information about Gathering data
+- Analyze information about Gathering data.
 
   ## Seven Steps of data preparation:
   - Gather your data
